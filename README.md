@@ -33,8 +33,9 @@
 
 
 <div>
+
   
- <a href="https://www.linkedin.com/in/washiner-takeuchi/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQFw1vWV5OxJFw/profile-displayphoto-shrink_800_800/0/1679431590852?e=1684972800&v=beta&t=Q-t53RmIhkL040YtMRA7LCZHzosLwNLdSaApVpb9e38" width="60" heigth="60"></a> 
+  <a href="https://www.linkedin.com/in/washiner-takeuchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
