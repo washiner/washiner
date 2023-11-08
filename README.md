@@ -1,10 +1,10 @@
 # Hi 👋, I'm Washiner Takeuchi
 
 
-#### +10 years in the technology area, I specialize in Linux and I am looking for a career transition as a Software Developer, I have experience in Node, React, JavaScript, HTML, CSS, Git, GitHub and GitLab (I have a portfolio with projects that prove these skills ). Graduated in Systems Analysis and Development since 2011. I lived in Japan for 11 years to improve the language. 
+#### "I am a Junior mobile developer specializing in Dart and Flutter, +10 years in the technology area, I specialize in Linux and I am looking for a career transition as a Software Developer, I have experience in Node, React, JavaScript, HTML, CSS, Git, GitHub and GitLab (I have a portfolio with projects that prove these skills ). Graduated in Systems Analysis and Development since 2011. I lived in Japan for 11 years to improve the language. 
 #### 📚 I have Degree in Systems Snalysis and Development.
 #### 🧠 I’m currently studying Full Stack Software Development.
-#### 💬 I speak Portuguese, English and Japanese.
+#### 💬 I speak Portuguese, Japanese and English A2 or B1.
 #### 🔭 I’m interested in software development positions.
 
 
